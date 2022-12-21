@@ -56,6 +56,10 @@ nav ul li a {
 .nav-search {
   border: none;
   background-color: rgba(247, 247, 225, 0.753);
-  font-weight: 400;
 }
+.container { /* задать ширину и выровнять по середине */
+  max-width: 997px;
+  margin: 0 auto;
+}
+
 
