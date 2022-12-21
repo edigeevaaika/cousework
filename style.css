@@ -68,5 +68,12 @@ nav ul li a {
   padding: 25px;
   font-size: 20px;
 }
-
+.header-button {
+  background-color: rgb(247, 185, 72);
+  border: none;
+  border-radius: 20px;
+  padding: 5px 15px;
+  text-transform: uppercase;
+  font-size: 10px;
+}
 
