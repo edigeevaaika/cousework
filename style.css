@@ -57,9 +57,5 @@ nav ul li a {
   border: none;
   background-color: rgba(247, 247, 225, 0.753);
 }
-.container { /* задать ширину и выровнять по середине */
-  max-width: 997px;
-  margin: 0 auto;
-}
 
 
