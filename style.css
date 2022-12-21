@@ -58,7 +58,7 @@ nav ul li a {
   background-color: rgba(247, 247, 225, 0.753);
 }
 .main-header {
-  background-image: url("./assets/IMAGE.png");
+  background-image: url(./icon/h1-img.png);
   background-repeat: no-repeat;
   background-size: contain;
   width: 100%;
