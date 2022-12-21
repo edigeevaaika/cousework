@@ -41,7 +41,6 @@ h6{
   justify-content: space-between;
   align-items: center;
   text-transform: uppercase;
-  /* font-family: Verdana, Geneva, Tahoma, sans-serif; */
 }
 nav ul {
   display: flex;
@@ -53,5 +52,11 @@ nav ul li {
 nav ul li a {
   text-decoration: none;
 
+}
+.nav-search {
+  border: none;
+  background-color: rgba(247, 247, 225, 0.753);
+  font-weight: 400;
+  font-size: 16px;
 }
 
