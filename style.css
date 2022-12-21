@@ -78,4 +78,9 @@ nav ul li a {
   text-transform: uppercase;
   font-size: 10px;
 }
-
+.atributs{
+  display: flex;
+  justify-content: space-between;
+}
+.saj{
+}
