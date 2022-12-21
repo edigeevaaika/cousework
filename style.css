@@ -36,3 +36,15 @@ h5{
 h6{
   font-size:20px;
 }
+.main {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  text-transform: uppercase;
+  /* font-family: Verdana, Geneva, Tahoma, sans-serif; */
+}
+nav ul {
+  display: flex;
+  list-style-type: none;
+}
+
